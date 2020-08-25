@@ -1,0 +1,8 @@
+node_modules
+build
+.env
+.idea
+sql/queries/*
+!sql/queries/samples
+!sql/queries/README.md
+
